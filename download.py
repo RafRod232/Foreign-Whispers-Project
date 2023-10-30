@@ -22,21 +22,36 @@ videos_output_directory = os.path.join(current_directory, 'videos')
 captions_output_directory = os.path.join(current_directory, 'captions')
 
 print(f'Downloading videos from: {p.title}')
-for i in range(10):
+
+count = 10
+i = 0
+k = 0
+
+while i < len(p.videos) and k < count:
 	# have to use this method before accessing other properties like captions
 	# https://github.com/pytube/pytube/issues/1674#issuecomment-1706105785
 	# save videos
 	video = p.videos[i]
-	video.streams.first().download(output_path=videos_output_directory)
-	video.bypass_age_gate()
-
-	# save captions
+	print(f'Checking: {video.title}')
+	if video.age_restricted == True:
+		i += 1
+		print('Age restricted')
+		continue
 	try:
+		video.bypass_age_gate()
+		print('Not age restriced')
 		caption = video.captions['en']
+		print(caption)
 		caption_content = caption.generate_srt_captions()
 		caption_filename = f"{sanitize_filename(video.title)}.srt"
 		caption_path = os.path.join(captions_output_directory, caption_filename)
 		with open(caption_path, 'w', encoding='utf-8') as file:
 			file.write(caption_content)
+
+		video.streams.first().download(output_path=videos_output_directory)
+		k += 1
+		i += 1
 	except:
+		print('No captions')
+		i += 1
 		continue

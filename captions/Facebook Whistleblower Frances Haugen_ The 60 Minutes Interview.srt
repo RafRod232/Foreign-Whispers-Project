@@ -1,0 +1,487 @@
+1
+00:00:01,680 --> 00:00:09,360
+her name is francis haugen that is a fact that  facebook has been anxious to know since last month  
+
+2
+00:00:09,360 --> 00:00:16,080
+when an anonymous former employee filed complaints  with federal law enforcement the complaints say  
+
+3
+00:00:16,080 --> 00:00:23,440
+facebook's own research shows that it amplifies  hate misinformation and political unrest but the  
+
+4
+00:00:23,440 --> 00:00:30,480
+company hides what it knows one complaint alleges  that facebook's instagram harms teenage girls  
+
+5
+00:00:31,200 --> 00:00:38,240
+what makes haugen's complaints unprecedented is  the trove of private facebook research she took  
+
+6
+00:00:38,240 --> 00:00:45,120
+when she quit in may the documents appeared first  last month in the wall street journal but tonight  
+
+7
+00:00:45,120 --> 00:00:52,080
+frances haugen is revealing her identity to  explain why she became the facebook whistleblower  
+
+8
+00:00:53,760 --> 00:00:57,840
+the story will continue in a moment
+
+9
+00:00:59,280 --> 00:01:04,560
+the thing i saw at facebook over and over again  was there were conflicts of interest between what  
+
+10
+00:01:04,560 --> 00:01:10,320
+was good for the public and what was good for  facebook and facebook over and over again chose  
+
+11
+00:01:10,320 --> 00:01:16,960
+to optimize for its own interests like making more  money francis haugen is 37 a data scientist from  
+
+12
+00:01:16,960 --> 00:01:24,800
+iowa with a degree in computer engineering and a  harvard master's degree in business for 15 years  
+
+13
+00:01:24,800 --> 00:01:30,800
+she's worked for companies including google and  pinterest i've seen a bunch of social networks  
+
+14
+00:01:30,800 --> 00:01:34,720
+and it was substantially worse at facebook than  anything i'd seen before you know someone else  
+
+15
+00:01:34,720 --> 00:01:41,280
+might have just quit and moved on and i wonder why  you take this stand imagine you know what's going  
+
+16
+00:01:41,280 --> 00:01:46,000
+on inside facebook and you know no one on the  outside knows i knew what my future looked like  
+
+17
+00:01:46,000 --> 00:01:51,840
+if i continued to stay inside of facebook which is  person after person after person has tackled this  
+
+18
+00:01:51,840 --> 00:01:57,680
+inside of facebook and ground themselves to the  ground when and how did it occur to you to take  
+
+19
+00:01:57,680 --> 00:02:03,840
+all of these documents out of the company at some  point in 2021 i realized okay i'm going to have  
+
+20
+00:02:03,840 --> 00:02:09,600
+to do this in a systemic way and i have to get out  enough that no one can question that this is real  
+
+21
+00:02:10,960 --> 00:02:16,720
+she secretly copied tens of thousands  of pages of facebook internal research  
+
+22
+00:02:17,440 --> 00:02:23,680
+she says evidence shows that the company is lying  to the public about making significant progress  
+
+23
+00:02:23,680 --> 00:02:32,560
+against hate violence and misinformation one study  she found from this year says we estimate that we  
+
+24
+00:02:32,560 --> 00:02:39,520
+may action as little as three to five percent  of hate and about six tenths of one percent of  
+
+25
+00:02:39,520 --> 00:02:45,680
+violence and incitement on facebook despite  being the best in the world at it to quote  
+
+26
+00:02:45,680 --> 00:02:52,320
+from another one of the documents you brought  out we have evidence from a variety of sources  
+
+27
+00:02:52,320 --> 00:02:59,040
+that hate speech divisive political speech and  misinformation on facebook and the family of apps  
+
+28
+00:02:59,600 --> 00:03:06,480
+are affecting societies around the world when  we live in an information environment that is  
+
+29
+00:03:06,480 --> 00:03:13,920
+full of angry hateful polarizing content it erodes  our civic trust it erodes our faith in each other  
+
+30
+00:03:13,920 --> 00:03:19,760
+it erodes our ability to want to care for each  other the version of facebook that exists today  
+
+31
+00:03:20,720 --> 00:03:24,320
+is tearing our societies apart and  causing ethnic violence around the world  
+
+32
+00:03:25,040 --> 00:03:32,480
+ethnic violence including myanmar in 2018 when  the military used facebook to launch a genocide  
+
+33
+00:03:33,200 --> 00:03:40,160
+the first quarter of 2019. francis haugen told  us she was recruited by facebook in 2019 she  
+
+34
+00:03:40,160 --> 00:03:47,120
+says she agreed to take the job only if she could  work against misinformation because she had lost  
+
+35
+00:03:47,120 --> 00:03:53,280
+a friend to online conspiracy theories i never  wanted anyone to feel the pain that i had felt  
+
+36
+00:03:53,840 --> 00:03:59,440
+and i had seen how high the stakes were in terms  of making sure there was high quality information  
+
+37
+00:03:59,440 --> 00:04:05,760
+on facebook at headquarters she was assigned  to civic integrity which worked on risks to  
+
+38
+00:04:05,760 --> 00:04:11,520
+elections including misinformation but after  this past election there was a turning point  
+
+39
+00:04:12,320 --> 00:04:18,240
+they told us we're dissolving civic integrity  like they basically said oh good we made it  
+
+40
+00:04:18,240 --> 00:04:22,960
+through the election there wasn't riots we can get  rid of civic integrity now fast forward a couple  
+
+41
+00:04:22,960 --> 00:04:28,960
+months we got the insurrection and when they got  rid of civic integrity it was the moment where  
+
+42
+00:04:28,960 --> 00:04:36,400
+i was like i don't trust that they're willing to  actually invest what needs to be invested to keep  
+
+43
+00:04:36,400 --> 00:04:42,880
+facebook from being dangerous facebook says  the work of civic integrity was distributed to  
+
+44
+00:04:42,880 --> 00:04:52,240
+other units haugen told us the root of facebook's  problem is in a change that it made in 2018 to its  
+
+45
+00:04:52,240 --> 00:04:57,440
+algorithms the programming that decides  what you see on your facebook news feed  
+
+46
+00:04:58,000 --> 00:05:04,240
+so you know you have your phone you might see  only 100 pieces of content if you sit and scroll  
+
+47
+00:05:04,240 --> 00:05:09,040
+off for you know five minutes but facebook  has thousands of options it could show you  
+
+48
+00:05:09,600 --> 00:05:16,400
+the algorithm picks from those options based on  the kind of content you've engaged with the most  
+
+49
+00:05:16,400 --> 00:05:22,240
+in the past and one of the consequences of how  facebook is picking out that content today is it  
+
+50
+00:05:22,240 --> 00:05:28,320
+is optimizing for content that gets engagement  or reaction but its own research is showing  
+
+51
+00:05:28,880 --> 00:05:35,440
+that content that is hateful that is divisive that  is polarizing it's easier to inspire people to  
+
+52
+00:05:35,440 --> 00:05:43,520
+anger than it is to other emotions misinformation  angry content is enticing to people and keeps  
+
+53
+00:05:43,520 --> 00:05:50,880
+them on the platform yes facebook has realized  that if they change the algorithm to be safer  
+
+54
+00:05:51,440 --> 00:05:56,880
+people will spend less time on the site they'll  click on less ads they'll make less money haugen  
+
+55
+00:05:56,880 --> 00:06:03,920
+says facebook understood the danger to the 2020  election so it turned on safety systems to reduce  
+
+56
+00:06:05,840 --> 00:06:10,640
+but many of those changes she says were  temporary and as soon as the election was  
+
+57
+00:06:10,640 --> 00:06:14,080
+over they turned them back off or they changed  the settings back to what they were before  
+
+58
+00:06:14,800 --> 00:06:19,840
+to prioritize growth over safety and that  really feels like a betrayal of democracy to me  
+
+59
+00:06:20,480 --> 00:06:28,080
+facebook says some of the safety systems remained  but after the election facebook was used by some  
+
+60
+00:06:28,080 --> 00:06:35,040
+to organize the january sixth insurrection  prosecutors cite facebook posts as evidence  
+
+61
+00:06:35,600 --> 00:06:43,120
+photos of armed partisans and texts including  by bullet or ballot restoration of the republic  
+
+62
+00:06:43,120 --> 00:06:51,440
+is coming extremists used many platforms but  facebook is a recurring theme after the attack  
+
+63
+00:06:51,440 --> 00:06:58,880
+facebook employees raged on an internal message  board copied by haugen haven't we had enough  
+
+64
+00:06:58,880 --> 00:07:05,920
+time to figure out how to manage discourse without  enabling violence we looked for positive comments  
+
+65
+00:07:05,920 --> 00:07:13,600
+and found this i don't think our leadership  team ignores data ignores dissent ignores truth  
+
+66
+00:07:14,400 --> 00:07:21,600
+but that drew this reply welcome to facebook  i see you just joined in november 2020  
+
+67
+00:07:22,160 --> 00:07:27,120
+we have been watching wishy-washy actions  of company leadership for years now  
+
+68
+00:07:27,840 --> 00:07:33,200
+colleagues cannot conscience working for a  company that does not do more to mitigate  
+
+69
+00:07:33,200 --> 00:07:40,240
+the negative effects of its platform facebook  essentially amplifies the worst of human nature  
+
+70
+00:07:41,120 --> 00:07:46,080
+it's one of these unfortunate consequences  right no one at facebook is malevolent but  
+
+71
+00:07:46,080 --> 00:07:51,680
+the incentives are misaligned right like facebook  makes more money when you consume more content  
+
+72
+00:07:52,320 --> 00:07:58,560
+people enjoy engaging with things that elicit an  emotional reaction and the more anger that they  
+
+73
+00:07:58,560 --> 00:08:04,560
+get exposed to the more they interact and more  they consume that dynamic led to a complaint to  
+
+74
+00:08:04,560 --> 00:08:11,840
+facebook by major political parties across europe  this 2019 internal report obtained by haugen  
+
+75
+00:08:12,400 --> 00:08:18,880
+says that the parties feel strongly that the  change to the algorithm has forced them to skew  
+
+76
+00:08:18,880 --> 00:08:26,320
+negative in their communications on facebook  leading them into more extreme policy positions  
+
+77
+00:08:26,320 --> 00:08:30,640
+the european political parties were essentially  saying to facebook the way you've written  
+
+78
+00:08:30,640 --> 00:08:38,160
+your algorithm is changing the way we lead our  countries yes you are forcing us to take positions  
+
+79
+00:08:38,160 --> 00:08:43,760
+that we don't like that we know are bad for  society we know if we don't take those positions  
+
+80
+00:08:44,400 --> 00:08:52,640
+we won't win in the marketplace of social media  evidence of harm she says extends to facebook's  
+
+81
+00:08:52,640 --> 00:08:59,760
+instagram app one of the facebook internal studies  that you found talks about how instagram harms  
+
+82
+00:08:59,760 --> 00:09:07,360
+teenage girls oh yeah one study says 13 and a  half percent of teen girls say instagram makes  
+
+83
+00:09:07,360 --> 00:09:16,880
+thoughts of suicide worse 17 of teen girls say  instagram makes eating disorders worse and what's  
+
+84
+00:09:16,880 --> 00:09:24,080
+super tragic is facebook's own research says as  these young women begin to consume this eating  
+
+85
+00:09:24,080 --> 00:09:28,880
+disorder content they get more and more depressed  and it actually makes them use the app more  
+
+86
+00:09:30,240 --> 00:09:34,800
+and so they end up in this feedback cycle  where they hate their bodies more and more  
+
+87
+00:09:34,800 --> 00:09:40,160
+facebook's own research says it is not  just that instagram is dangerous for  
+
+88
+00:09:40,160 --> 00:09:46,480
+teenagers that it harms teenagers it's that it is  distinctly worse than other forms of social media  
+
+89
+00:09:47,120 --> 00:09:54,400
+facebook said just last week it would postpone  plans to create an instagram for younger children  
+
+90
+00:09:55,600 --> 00:10:00,560
+last month haugen's lawyers filed at least  eight complaints with the securities and  
+
+91
+00:10:00,560 --> 00:10:06,800
+exchange commission which enforces the law in  financial markets the complaints compare the  
+
+92
+00:10:06,800 --> 00:10:14,720
+internal research with the company's public face  often that of ceo mark zuckerberg here testifying  
+
+93
+00:10:14,720 --> 00:10:20,800
+remotely to congress last march we removed content  that could lead to imminent real world harm  
+
+94
+00:10:20,800 --> 00:10:26,400
+we've built an unprecedented third-party  fact-checking program the system isn't perfect but  
+
+95
+00:10:26,400 --> 00:10:31,840
+it's the best approach that we've found to address  misinformation in line with our country's values  
+
+96
+00:10:32,560 --> 00:10:39,200
+one of francis haugen's lawyers is john tai he's  the founder of a washington legal group called  
+
+97
+00:10:39,200 --> 00:10:47,200
+whistleblower aid what is the legal theory behind  going to the sec what laws are you alleging have  
+
+98
+00:10:47,200 --> 00:10:55,760
+been broken as a publicly traded company facebook  is required to not lie to its investors or even  
+
+99
+00:10:55,760 --> 00:11:02,160
+withhold material information so the  sec regularly brings enforcement actions  
+
+100
+00:11:02,160 --> 00:11:07,760
+alleging that companies like facebook and others  are making material misstatements and omissions  
+
+101
+00:11:08,320 --> 00:11:14,720
+that affect investors adversely one of the things  that facebook might allege is that she stole  
+
+102
+00:11:14,720 --> 00:11:21,360
+company documents the dodd-frank act passed  over 10 years ago at this point created uh  
+
+103
+00:11:21,360 --> 00:11:27,680
+an office of the whistleblower inside the sec and  one of the provisions of that law says that no  
+
+104
+00:11:27,680 --> 00:11:33,840
+company can prohibit its employees from  from communicating with the sec and sharing  
+
+105
+00:11:33,840 --> 00:11:38,320
+internal corporate documents with the  sec i have a lot of empathy for mark  
+
+106
+00:11:38,320 --> 00:11:45,200
+and mark has never set out to make a hateful  platform but he has allowed choices to be made  
+
+107
+00:11:45,920 --> 00:11:50,880
+where the side effects of those choices are that  hateful polarizing content gets more distribution  
+
+108
+00:11:50,880 --> 00:11:57,120
+more reach facebook declined an interview but  in a written statement to 60 minutes it said  
+
+109
+00:11:58,000 --> 00:12:03,120
+every day our teams have to balance protecting  the right of billions of people to express  
+
+110
+00:12:03,120 --> 00:12:09,680
+themselves openly with the need to keep our  platform a safe and positive place we continue  
+
+111
+00:12:09,680 --> 00:12:14,720
+to make significant improvements to tackle the  spread of misinformation and harmful content  
+
+112
+00:12:15,440 --> 00:12:24,240
+to suggest we encourage bad content and do nothing  is just not true if any research had identified an  
+
+113
+00:12:24,240 --> 00:12:30,720
+exact solution to these complex challenges  the tech industry governments and society  
+
+114
+00:12:30,720 --> 00:12:38,800
+would have solved them a long time ago facebook  is a one trillion dollar company just 17 years  
+
+115
+00:12:38,800 --> 00:12:48,880
+old it has 2.8 billion users which is 60 percent  of all internet connected people on earth francis  
+
+116
+00:12:48,880 --> 00:12:56,080
+haugen plans to testify before congress this week  she believes the federal government should impose  
+
+117
+00:12:56,080 --> 00:13:02,240
+regulations facebook has demonstrated they cannot  act independently facebook over and over again has  
+
+118
+00:13:02,240 --> 00:13:08,880
+shown it uses profit over safety it is subsidizing  is paying for its profits with our safety  
+
+119
+00:13:08,880 --> 00:13:13,040
+i'm hoping that this will have had a big  enough impact on the world that they get  
+
+120
+00:13:13,040 --> 00:13:20,160
+the fortitude and the motivation to actually go  put those regulations into place that's my hope
+
+121
+00:13:24,960 --> 00:13:28,080
+more from the facebook whistleblower publishers  
+
+122
+00:13:28,080 --> 00:13:36,720
+know you are more likely to engage with angry  content at 60minutesovertime.com by colaguard
