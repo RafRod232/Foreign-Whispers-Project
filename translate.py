@@ -1,6 +1,5 @@
 import argostranslate.package
 import argostranslate.translate
-import os
 
 # from_code and to_code are language codes:
 def translate_text(text, from_code, to_code):
@@ -30,5 +29,4 @@ def translate_captions_folder(folder_path, from_code, to_code, output_folder):
             with open(output_file_path, "w") as output_file:
                 output_file.write(translated_text)
                 
-os.makedirs("french_captions", exist_ok=True)
 translated_texts = translate_captions_folder("whisper_captions", "en", "fr", "french_captions")
