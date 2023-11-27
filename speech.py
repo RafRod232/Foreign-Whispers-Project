@@ -14,7 +14,7 @@ def text_to_speech_audio(directory_path, language, output_folder):
             engine.setProperty('volume', 1)  
             output_audio_path = os.path.join(output_folder, os.path.splitext(filename)[0] + ".mp3")
             #print(output_audio_path)
-            engine.save_to_file(text, f'trans_audio/{filename}.mp3')
+            engine.save_to_file(text, f'{output_folder}/{filename}.mp3')
             engine.runAndWait()
 
 txt_path = "french_captions"
