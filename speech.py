@@ -17,7 +17,7 @@ def text_to_speech_audio(directory_path, language, output_folder):
             engine.save_to_file(text, f'{output_folder}/{filename}.mp3')
             engine.runAndWait()
 
-txt_path = "french_captions"
-trans_lang = "french"
-output_path = "trans_audio"
-text_to_speech_audio(txt_path, trans_lang, output_path)
+# txt_path = "french_captions"
+# trans_lang = "french"
+# output_path = "trans_audio"
+# text_to_speech_audio(txt_path, trans_lang, output_path)

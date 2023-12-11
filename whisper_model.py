@@ -8,7 +8,7 @@ model = whisper.load_model("base")
 def generate_captions(video_file_path, audio_file_path):
 	# separate audio file
 	video = VideoFileClip(video_file_path)
-	video.audio.write_audiofile(audio_file_path)
+	video.audio.write_audiofile(audio_file_path, codec='pcm_s16le')
 
 	# use whisper model to generate captions on audio file
 	result = model.transcribe(audio_file_path)
@@ -33,4 +33,5 @@ def generate_captions_folders(video_folder_path, audio_folder_path, caption_fold
 
         print(f"Transcription for {video_file}: {result['text']}")
 
-generate_captions_folders("videos", "audio", "whisper_captions")
+# generate_captions("D:\\github-repos\\Foreign-Whispers-Project\\videos\\Bill Gates The 2021 60 Minutes interview.3gpp", "audio\\test.wav")
+# generate_captions_folders("videos", "audio", "whisper_captions")

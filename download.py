@@ -18,21 +18,22 @@ def sanitize_filename(filename):
 
 def download_from_url(url):
 	video = YouTube(url)
-	print(f'Checking: {video.title}')
+	print(f'Downloading: {video.title}')
 	if video.age_restricted == True:
 		print('Age restricted')
 	try:
 		video.bypass_age_gate()
-		print('Not age restriced')
+		# print('Not age restriced')
 		caption = video.captions['en']
-		print(caption)
+		# print(caption)
 		caption_content = caption.generate_srt_captions()
 		caption_filename = f"{sanitize_filename(video.title)}.srt"
 		caption_path = os.path.join(captions_output_directory, caption_filename)
 		with open(caption_path, 'w', encoding='utf-8') as file:
 			file.write(caption_content)
 
-		video.streams.first().download(output_path=videos_output_directory)
+		video_path = video.streams.first().download(output_path=videos_output_directory)
+		return video_path, caption_path, sanitize_filename(video.title)
 	except:
 		print('No captions')
 		return 1
