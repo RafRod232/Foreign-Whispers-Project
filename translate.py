@@ -29,4 +29,4 @@ def translate_captions_folder(folder_path, from_code, to_code, output_folder):
             with open(output_file_path, "w") as output_file:
                 output_file.write(translated_text)
                 
-translated_texts = translate_captions_folder("whisper_captions", "en", "fr", "french_captions")
+# translated_texts = translate_captions_folder("whisper_captions", "en", "fr", "french_captions")
